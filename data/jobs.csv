@@ -1,1 +1,7 @@
 title,company,location,skills,salary
+title,company,location,skills,salary
+AI Intern,Google,Bangalore,Python;ML;SQL,25000
+Python Intern,Amazon,Hyderabad,Python;SQL;Git,20000
+ML Intern,Microsoft,Hyderabad,Python;ML;NumPy,30000
+Data Intern,Startup A,Chennai,Python;Pandas;SQL,12000
+AI Intern,Startup B,Hyderabad,Python;ML;Deep Learning,15000
